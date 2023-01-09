@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1", "Lab1\Lab1.csproj", "{F79924CB-6582-4E15-8536-683A838435E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PG2Input", "PG2Input\PG2Input.csproj", "{9B8E4331-9F91-4751-B323-44FE0806CEF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3641F0F0-F1FD-4C9D-9F3C-C0DDF66CB7BA}"
+	ProjectSection(SolutionItems) = preProject
+		LabDocument\Lab Histogram.pdf = LabDocument\Lab Histogram.pdf
+		LabData\speechString.txt = LabData\speechString.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79924CB-6582-4E15-8536-683A838435E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79924CB-6582-4E15-8536-683A838435E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79924CB-6582-4E15-8536-683A838435E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79924CB-6582-4E15-8536-683A838435E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8E4331-9F91-4751-B323-44FE0806CEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8E4331-9F91-4751-B323-44FE0806CEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8E4331-9F91-4751-B323-44FE0806CEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8E4331-9F91-4751-B323-44FE0806CEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8839D775-4BFC-4EF3-AFE8-405341A4ADD2}
+	EndGlobalSection
+EndGlobal
