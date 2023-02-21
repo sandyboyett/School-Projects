@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance Lab - Boyett, Sandy", "Inheritance Lab - Boyett, Sandy\Inheritance Lab - Boyett, Sandy.vcxproj", "{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Debug|x64.ActiveCfg = Debug|x64
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Debug|x64.Build.0 = Debug|x64
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Debug|x86.Build.0 = Debug|Win32
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Release|x64.ActiveCfg = Release|x64
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Release|x64.Build.0 = Release|x64
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Release|x86.ActiveCfg = Release|Win32
+		{DFE00E9C-A1A2-4921-B234-5475DBD6FA86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1FA0C7-E429-4283-B36E-D084A49C168E}
+	EndGlobalSection
+EndGlobal
